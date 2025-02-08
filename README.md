@@ -1,6 +1,6 @@
 # Privacy Policy for [Horizon Bypass]
 
-This repository hosts the Privacy Policy for [Your Bot Name], a Discord bot designed to provide [brief description of bot's purpose].
+This repository hosts the Privacy Policy for [Horizon Bypass], a Discord bot designed to provide [a bot that can bypass links].
 
 ## 🔗 View Privacy Policy
 You can read the Privacy Policy here:  
